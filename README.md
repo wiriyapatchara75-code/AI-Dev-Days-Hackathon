@@ -10,7 +10,7 @@
 
 ## 🎯 Overview
 
-The **AI Dev Days Hackathon** is your opportunity to turn the insights from AI Dev Days into real-world innovation. This is a 5-week global challenge for developers to build cutting-edge AI solutions using Microsoft's purpose-built AI platform, GitHub, VS Code, and Azure services.
+The [**AI Dev Days Hackathon**](https://aka.ms/aidevdayshackathon) is your opportunity to turn the insights from AI Dev Days into real-world innovation. This is a 5-week global challenge for developers to build cutting-edge AI solutions using Microsoft's purpose-built AI platform, GitHub, VS Code, and Azure services.
 
 ### Why Participate?
 
