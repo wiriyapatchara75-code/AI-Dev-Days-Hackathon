@@ -8,7 +8,7 @@ SUBMISSION OF ANY ENTRY CONSTITUTES AGREEMENT TO THESE OFFICIAL RULES AS A CONTR
 
 ## Dates and Timing 
 
-**Registration Period:** Tuesday, January 20, 2026 (09:00 am Pacific Time) – Sunday, February 8, 2026 (11:59 pm Pacific Time) ("Registration Period"). 
+**Registration Period:** Tuesday, January 20, 2026 (09:00 am Pacific Time) – Sunday, February 22, 2026 (11:59 pm Pacific Time) ("Registration Period"). 
 
 **Submission/Hackathon Period:** Tuesday, February 10, 2026 (9:00 am Pacific Time) – Sunday, March 15, 2026 (11:59 pm Pacific Time) ("Submission/Hackathon Period"). 
 
